@@ -1,0 +1,6 @@
+discord.py
+loguru
+peewee
+python-dotenv
+redis-om
+sqlite3
